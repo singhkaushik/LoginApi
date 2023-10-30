@@ -1,0 +1,6 @@
+.env
+node_modules
+storage/*.key
+yarn-error.log
+npm-debug*.log*
+app/config/.env
